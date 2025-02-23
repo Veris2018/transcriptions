@@ -41,12 +41,12 @@ Transkriptionen und Dokumentationen können Betroffenen helfen, ihre Rechte bess
 
 ---
 Citations:
-[1] [https://www.gesetze-im-internet.de/ifg/IFG.pdf](https://www.gesetze-im-internet.de/ifg/IFG.pdf)
-[2] [https://www.fwp.at/news/blog/das-informationsfreiheitsgesetz-adieu-amtsgeheimnis-willkommen-recht-auf-information](https://www.fwp.at/news/blog/das-informationsfreiheitsgesetz-adieu-amtsgeheimnis-willkommen-recht-auf-information)
-[3] [https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Service/Kontakt/informationsfreiheitsgesetz.html](https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Service/Kontakt/informationsfreiheitsgesetz.html)
-[4] [https://www.bundeskanzleramt.gv.at/themen/informationsfreiheitsgesetz.html](https://www.bundeskanzleramt.gv.at/themen/informationsfreiheitsgesetz.html)
-[5] [https://www.bverwg.de/pm/2024/10](https://www.bverwg.de/pm/2024/10)
-[6] [https://www.oesterreich.gv.at/Gesetzliche-Neuerungen/Bundesgesetzblatt/Informationsfreiheitsgesetz.html](https://www.oesterreich.gv.at/Gesetzliche-Neuerungen/Bundesgesetzblatt/Informationsfreiheitsgesetz.html)
-[7] [https://www.gesetze-im-internet.de/ifg/](https://www.gesetze-im-internet.de/ifg/)
-[8] [https://www.parlament.gv.at/gegenstand/XXVII/A/61](https://www.parlament.gv.at/gegenstand/XXVII/A/61)
-[9] [https://www.bmfsfj.de/bmfsfj/informationsfreiheitsgesetz-99434](https://www.bmfsfj.de/bmfsfj/informationsfreiheitsgesetz-99434)
+[1] [https://www.gesetze-im-internet.de/ifg/IFG.pdf](https://www.gesetze-im-internet.de/ifg/IFG.pdf)  
+[2] [https://www.fwp.at/news/blog/das-informationsfreiheitsgesetz-adieu-amtsgeheimnis-willkommen-recht-auf-information](https://www.fwp.at/news/blog/das-informationsfreiheitsgesetz-adieu-amtsgeheimnis-willkommen-recht-auf-information)  
+[3] [https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Service/Kontakt/informationsfreiheitsgesetz.html](https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Service/Kontakt/informationsfreiheitsgesetz.html)  
+[4] [https://www.bundeskanzleramt.gv.at/themen/informationsfreiheitsgesetz.html](https://www.bundeskanzleramt.gv.at/themen/informationsfreiheitsgesetz.html)  
+[5] [https://www.bverwg.de/pm/2024/10](https://www.bverwg.de/pm/2024/10)  
+[6] [https://www.oesterreich.gv.at/Gesetzliche-Neuerungen/Bundesgesetzblatt/Informationsfreiheitsgesetz.html](https://www.oesterreich.gv.at/Gesetzliche-Neuerungen/Bundesgesetzblatt/Informationsfreiheitsgesetz.html)  
+[7] [https://www.gesetze-im-internet.de/ifg/](https://www.gesetze-im-internet.de/ifg/)  
+[8] [https://www.parlament.gv.at/gegenstand/XXVII/A/61](https://www.parlament.gv.at/gegenstand/XXVII/A/61)  
+[9] [https://www.bmfsfj.de/bmfsfj/informationsfreiheitsgesetz-99434](https://www.bmfsfj.de/bmfsfj/informationsfreiheitsgesetz-99434)  
