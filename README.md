@@ -3,7 +3,9 @@
 - Es kann betroffenen helfen nicht den Verstand zu verlieren um wenn auch nur ganz alleine bei der Wahrheit bleiben zu können.
 - Wir Menschen brauchen das Gute, Das Wahre, Das Schöne um Leben zu können.
 
-**Es ist möglich ein Buch zu Schreiben**
+## Es ist möglich ein Buch zu Schreiben
+
+---
 
 **Warum Transkriptionen Betroffenen helfen können, ihre Rechte zu wahren**
 
