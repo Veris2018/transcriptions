@@ -1,3 +1,10 @@
+# Die Warheit Vorweg
+
+- Es kann betroffenen helfen nicht den Verstand zu verlieren um wenn auch nur ganz alleine bei der Wahrheit bleiben zu können.
+- Wir Menschen brauchen das Gute, Das Wahre, Das Schöne um Leben zu können.
+
+**Es ist möglich ein Buch zu Schreiben**
+
 **Warum Transkriptionen Betroffenen helfen können, ihre Rechte zu wahren**
 
 Das Führen von Aufzeichnungen kann in vielen Fällen dazu beitragen, Sachverhalte klarzustellen und Widersprüche zu erkennen. Dies kann insbesondere in behördlichen Verfahren eine wertvolle Hilfestellung sein.
