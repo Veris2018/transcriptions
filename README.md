@@ -40,7 +40,7 @@ Viele Eltern erleben Herausforderungen in familienrechtlichen Verfahren. Dabei t
 Transkriptionen und Dokumentationen können Betroffenen helfen, ihre Rechte besser zu verstehen und zu wahren. Dabei ist es jedoch essenziell, sich an die gesetzlichen Vorgaben zu halten und rechtskonforme Methoden zu nutzen. Eine fundierte rechtliche Beratung kann zusätzlichen Schutz bieten und sicherstellen, dass die eigenen Interessen gewahrt bleiben. Mit den kommenden Änderungen in Österreich durch das neue Informationsfreiheitsgesetz wird der Zugang zu behördlichen Informationen erleichtert, was zu mehr Transparenz und Bürgerbeteiligung führen soll. Weitere Informationen dazu unter: [https://www.bundeskanzleramt.gv.at/themen/informationsfreiheitsgesetz.html](https://www.bundeskanzleramt.gv.at/themen/informationsfreiheitsgesetz.html)
 
 ---
-Citations:
+Citations:  
 [1] [https://www.gesetze-im-internet.de/ifg/IFG.pdf](https://www.gesetze-im-internet.de/ifg/IFG.pdf)  
 [2] [https://www.fwp.at/news/blog/das-informationsfreiheitsgesetz-adieu-amtsgeheimnis-willkommen-recht-auf-information](https://www.fwp.at/news/blog/das-informationsfreiheitsgesetz-adieu-amtsgeheimnis-willkommen-recht-auf-information)  
 [3] [https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Service/Kontakt/informationsfreiheitsgesetz.html](https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Service/Kontakt/informationsfreiheitsgesetz.html)  
